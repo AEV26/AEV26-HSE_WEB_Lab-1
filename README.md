@@ -1,1 +1,1 @@
-# AEV26-HSE_WEB_Lab-1
+# HSE_WEB_Lab-1
